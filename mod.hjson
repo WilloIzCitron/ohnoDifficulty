@@ -1,0 +1,7 @@
+name: "ohnoDifficulty"
+displayName: "Oh No Difficulty"
+author: "WilloIzCitron"
+description: "There is no description"
+version: "1.0"
+minGameVersion: "125.1"
+hidden: true
